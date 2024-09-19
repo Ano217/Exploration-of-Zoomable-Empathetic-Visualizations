@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: 597bead9ae30f184d95df6cc8df2318d
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Comb_Diffuse
+    second: {fileID: 2800000, guid: 72f0e2b94dab26d448585e2bb0d4f63c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: EarFlap_Diffuse
+    second: {fileID: 2800000, guid: a05d50cf6f4d3ab4a8239813147782e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ear_Diffuse
+    second: {fileID: 2800000, guid: 00a86a0018d660c46911c75ebcb3dcd5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FeatherFlight_Diffuse
+    second: {fileID: 2800000, guid: ad00851f6ecbea44593b29b7be3982b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FeatherFlight_Opacity
+    second: {fileID: 2800000, guid: f202a165e110f1842bdc78d83cd17bca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: InnerBeak_Diffuse
+    second: {fileID: 2800000, guid: f4af0cc31d440354aaa169a4d430747d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Iris_Diffuse
+    second: {fileID: 2800000, guid: 1849da3639c054048a9e491dd66b214c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Legs_Diffuse
+    second: {fileID: 2800000, guid: a830a1c31a58ed84485e2288e39e842a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nails_Diffuse
+    second: {fileID: 2800000, guid: b53815a84fccc394999dc625d5645014, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plumage_Diffuse
+    second: {fileID: 2800000, guid: 236af0a9f330dbf4a8487655da4a94ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Saddle2_Diffuse
+    second: {fileID: 2800000, guid: 6eac435029857a34bb87cc0c3e1be0fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Saddle2_Opacity
+    second: {fileID: 2800000, guid: edf87c5a3b9de7849af1d5b88ff91659, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Saddle_Diffuse
+    second: {fileID: 2800000, guid: 5182520f48420b54bba9d35d6beae414, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Saddle_Opacity
+    second: {fileID: 2800000, guid: 3267d4d26e517bc49b0a49b66e035637, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Thigh_Diffuse
+    second: {fileID: 2800000, guid: d698fbab6b26c8843a65bc5869a358c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tongue_Diffuse
+    second: {fileID: 2800000, guid: 5b8fd47fcc10ef442940f050b54ef1ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Transparency1_Diffuse
+    second: {fileID: 2800000, guid: 2dc45aaf225a3624888e72d249c2ea24, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Transparency1_Opacity
+    second: {fileID: 2800000, guid: a674ed4cfb1b3b2418582dfbd2ad92b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Transparency2_Diffuse
+    second: {fileID: 2800000, guid: 39d3a36ec3435b640b6dbf49350b9a0c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Transparency2_Opacity
+    second: {fileID: 2800000, guid: 9ce349374e1c35d40bc0f3d5780aaf21, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Transparency3_Diffuse
+    second: {fileID: 2800000, guid: 4b59a4e39cde07d4c8116cfc699d55f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Transparency3_Opacity
+    second: {fileID: 2800000, guid: b295742dfb2cbcc469db52d148915290, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Transparency4_Diffuse
+    second: {fileID: 2800000, guid: df92bea2b635bd44e8c58ea2098b6423, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Transparency4_Opacity
+    second: {fileID: 2800000, guid: cea6a4bd0966c594e8b0d2588659ee18, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wattle_Diffuse
+    second: {fileID: 2800000, guid: 6331431904f3dfb4ca1d06c75f2beed9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wings_Diffuse
+    second: {fileID: 2800000, guid: 55327a97cc93f064ea3524a0175a665c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wings_Opacity
+    second: {fileID: 2800000, guid: 3217e54131b383e4a96547cf7ed6ece7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tailfeathers_Diffuse
+    second: {fileID: 2800000, guid: 97a722e6d2c97374c9078e017a0e5133, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tailfeathers_Opacity
+    second: {fileID: 2800000, guid: 393de4cab10cd1a4b8652940b88d3c47, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
