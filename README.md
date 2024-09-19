@@ -1,7 +1,7 @@
 # Exploration-of-Zoomable-Empathetic-Visualizations
 
-This projet use Git LFS to manage large files
-To use it, please follow theses steps :
+This project uses Git LFS to manage large files
+To use it, please follow these steps :
 
 - Navigate to [git-lfs.com](https://git-lfs.com/) and click Download.
 - On your computer, locate the downloaded file.
